@@ -1,0 +1,16 @@
+/* CSS Lokisalle Front */
+
+.ten-column {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin: 1rem;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.retour {
+    padding-top: 4.5rem;
+    text-align: right;
+}

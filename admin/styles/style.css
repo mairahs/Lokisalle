@@ -1,0 +1,15 @@
+/* CSS LOKISALLE */
+img.teaser {
+    width: 230px;
+    height: auto;
+}
+/*nav {
+  display: none ;
+}*/
+img {
+    max-width: 100%;
+    height: auto;
+}
+.red {
+    color: red;
+}
